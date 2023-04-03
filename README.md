@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josephjoyofficial
-- 👀 I’m interested in C++ and Machine Learning
+- 👀 I’m interested in C++ ,Machine Learning and Computational Fluid Dynamics
 - 🌱 I’m currently learning Batchelor of technology in Mechanical Engineering
 - 💞️ I’m looking to collaborate on C++ and Machine Learning
 - 📫 How to reach me email:josephjoyoffcl@gmail.com
